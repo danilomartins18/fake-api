@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "name": "a title",
+      "budget": 100,
+      "createdAt": "22/11/2022 10:32:45",
+      "updatedAt": "22/11/2022 10:32:45"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "listId": "1",
+      "name": "a title",
+      "budget": 100,
+      "desiredQuantity": 0,
+      "stockQuantity": 0,
+      "purchased": false,
+      "price": 0,
+      "latitude": 0,
+      "longitutde": 0,
+      "purchaseDate": "22/11/2022 10:32:45",
+      "createdAt": "22/11/2022 10:32:45",
+      "updatedAt": "22/11/2022 10:32:45"
+    }
+  ]
+}
