@@ -3,6 +3,7 @@
     {
       "id": "1",
       "icon": "home",
+      "symbol": "R$",
       "name": "Mercado",
       "budget": 1000,
       "createdAt": "22/11/2022 10:32:45",
