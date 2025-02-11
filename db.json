@@ -2,10 +2,12 @@
   "list": [
     {
       "id": "1",
-      "name": "a title",
-      "budget": 100,
+      "icon": "home",
+      "name": "Mercado",
+      "budget": 1000,
       "createdAt": "22/11/2022 10:32:45",
-      "updatedAt": "22/11/2022 10:32:45"
+      "updatedAt": "22/11/2022 10:32:45",
+      "items": []
     }
   ],
   "products": [
